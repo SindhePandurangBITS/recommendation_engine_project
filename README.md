@@ -62,11 +62,11 @@ kaggle
 nltk
 
 ---
-
+```
 ## 🚀 Quick Start
 
 # 1. Clone repository
-```bash
+```
 git clone https://github.com/your_username/recommendation_system_project.git
 cd recommendation_system_project
 ```
